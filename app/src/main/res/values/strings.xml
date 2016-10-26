@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MultidexDemo</string>
+    <string name="googlead">Google AD</string>
+    <!-- Google广告ID -->
+    <string name="banner_ad_unit_id">ca-app-pub-9157494395610516/2435231982</string>
+</resources>
